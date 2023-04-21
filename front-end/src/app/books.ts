@@ -9,19 +9,19 @@ export const books = [
   {
     id: 1,
     name: 'Prima',
-    author: 'Al doilea'
-    publishers: 'A large phone with one of the best screens'
+    author: 'Al doilea',
+    publishers: 'A large phone with one of the best screens',
   },
   {
     id: 2,
     name: 'Morometii',
-    author: 'Farcas Andrei'
-    publishers: 'Retian Bianca'
+    author: 'Farcas Andrei',
+    publishers: 'Retian Bianca',
   },
   {
     id: 3,
     name: 'The Wizard of Oz',
-    author: 'Radu'
-    publishers: 'Gamet'
+    author: 'Radu',
+    publishers: 'Gamet',
   }
 ];
